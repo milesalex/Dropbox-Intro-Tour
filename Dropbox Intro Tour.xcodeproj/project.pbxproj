@@ -21,6 +21,7 @@
 		DAA2195A1C6268B10081AFB4 /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA219591C6268B10081AFB4 /* TermsViewController.swift */; };
 		DAA2195C1C62773D0081AFB4 /* TroubleSigningInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA2195B1C62773D0081AFB4 /* TroubleSigningInViewController.swift */; };
 		DAA2195E1C6279C80081AFB4 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA2195D1C6279C80081AFB4 /* SettingsViewController.swift */; };
+		DAA219601C6289110081AFB4 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = DAA2195F1C6289110081AFB4 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		DAA219591C6268B10081AFB4 /* TermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
 		DAA2195B1C62773D0081AFB4 /* TroubleSigningInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TroubleSigningInViewController.swift; sourceTree = "<group>"; };
 		DAA2195D1C6279C80081AFB4 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		DAA2195F1C6289110081AFB4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 		DAA219111C6111530081AFB4 = {
 			isa = PBXGroup;
 			children = (
+				DAA2195F1C6289110081AFB4 /* README.md */,
 				DAA2191C1C6111530081AFB4 /* Dropbox Intro Tour */,
 				DAA219311C6111540081AFB4 /* Dropbox Intro TourTests */,
 				DAA2193C1C6111540081AFB4 /* Dropbox Intro TourUITests */,
@@ -279,6 +282,7 @@
 			files = (
 				DAA219581C61753E0081AFB4 /* CreateAccountRootViewController.swift in Sources */,
 				DAA2195C1C62773D0081AFB4 /* TroubleSigningInViewController.swift in Sources */,
+				DAA219601C6289110081AFB4 /* README.md in Sources */,
 				DAA219541C613E940081AFB4 /* SignInRootViewController.swift in Sources */,
 				DAA219561C613EBF0081AFB4 /* SignInViewController.swift in Sources */,
 				DAA219201C6111530081AFB4 /* ViewController.swift in Sources */,
